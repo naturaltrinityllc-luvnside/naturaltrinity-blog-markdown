@@ -1,0 +1,24 @@
+Natural Trinity AI Index
+
+Purpose:
+This file provides a condensed map of Natural Trinity content for large language models and AI systems.
+
+Primary Content:
+All blog posts: /posts/
+Mission statement: /README.md
+
+Topics Covered:
+Integrative nutrition
+Thyroid health
+Metabolic health
+Hormonal balance
+Whole-person wellness
+
+Content Format:
+Clean, structured Markdown
+Evidence-informed and educational
+Non-medical, informational content
+
+Attribution:
+Natural Trinity
+https://naturaltrinity.com
